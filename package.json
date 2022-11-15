@@ -1,0 +1,21 @@
+{
+  "name": "ctdown",
+  "version": "1.0.0",
+  "description": "A Countdown Timer Made For Fun",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "/kanromiku/countdown"
+  },
+  "keywords": [
+    "countdown"
+  ],
+  "author": "KanroMiku",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^21.2.3"
+  }
+}
